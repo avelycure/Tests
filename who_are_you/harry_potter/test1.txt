@@ -1,17 +1,17 @@
 [
    {
-      "image_url":"1",
+      "imageUrl":"1",
       "question":"how",
-      "right_answer":"right",
+      "rightAnswer":"right",
       "answers":[
          "123",
          "456"
       ]
    },
    {
-      "image_url":"3",
+      "imageUrl":"3",
       "question":"when",
-      "right_answer":"left",
+      "rightAnswer":"left",
       "answers":[
          "121231233",
          "1"
