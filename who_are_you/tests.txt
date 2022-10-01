@@ -1,11 +1,11 @@
 [
    {
-      "name":"Who are you from Harry Potter?"
+      testName:"Who are you from Harry Potter?"
    },
    {
-      "name":"Which Hogwarts house you truly belong in?"
+      testName:"Which Hogwarts house you truly belong in?"
    },
    {
-      "name":"What will be your magic pet?"
+      testName:"What will be your magic pet?"
    }
 ]
