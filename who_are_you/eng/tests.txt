@@ -1,11 +1,14 @@
 [
    {
-      testName:"Who are you from Harry Potter?"
+      "testName":"Кто ты из Гарри Поттера?",
+      "fileName":"test1.txt"
    },
    {
-      testName:"Which Hogwarts house you truly belong in?"
+      "testName":"На каком факультете в Хогвартсе ты бы учился?",
+      "fileName":"test2.txt"
    },
    {
-      testName:"What will be your magic pet?"
+      "testName":"Какое твое магическое животное?",
+      "fileName":"test3.txt"
    }
 ]
