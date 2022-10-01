@@ -3,9 +3,9 @@
       "name":"Who are you from Harry Potter?"
    },
    {
-      "name":"Who are you from Avatar?"
+      "name":"Which Hogwarts house you truly belong in?"
    },
    {
-      "name":"Who are you from Winx?"
+      "name":"What will be your magic pet?"
    }
 ]
