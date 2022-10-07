@@ -4,20 +4,20 @@
       "fileName":"test1.txt",
       "questionsNumber":2,
       "testPreviewUrl": "",
-      "onboardingText": "Hello you are gonna to play this?"
+      "onboardingText": "Hello you are gonna to play this\?"
    },
    {
       "testName":"Which house at Hogwarts you would to study in",
       "fileName":"test2.txt",
       "questionsNumber":2,
       "testPreviewUrl": "",
-      "onboardingText": "Hello you are gonna to play this?"
+      "onboardingText": "Hello you are gonna to play this\?"
    },
    {
       "testName":"What is your magical animal",
       "fileName":"test3.txt",
       "questionsNumber":2,
       "testPreviewUrl": "",
-      "onboardingText": "Hello you are gonna to play this?"
+      "onboardingText": "Hello you are gonna to play this\?"
    }
 ]
