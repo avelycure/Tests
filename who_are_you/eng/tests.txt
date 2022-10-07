@@ -2,16 +2,22 @@
    {
       "testName":"Who are you from Harry Potter",
       "fileName":"test1.txt",
-      "numberOfQuestions":2
+      "questionsNumber":2,
+      "testPreviewUrl": "",
+      "onboardingText": "Hello you are gonna to play this?"
    },
    {
       "testName":"Which house at Hogwarts you would to study in",
       "fileName":"test2.txt",
-      "numberOfQuestions":2
+      "questionsNumber":2,
+      "testPreviewUrl": "",
+      "onboardingText": "Hello you are gonna to play this?"
    },
    {
       "testName":"What is your magical animal",
       "fileName":"test3.txt",
-      "numberOfQuestions":2
+      "questionsNumber":2,
+      "testPreviewUrl": "",
+      "onboardingText": "Hello you are gonna to play this?"
    }
 ]
