@@ -2,7 +2,7 @@
    {
       "testName":"Who are you from Harry Potter",
       "fileName":"test1.txt",
-      "resName":"test1_res.txt",
+      "resName":"a",
       "questionsNumber":2,
       "testPreviewUrl": "https://raw.githubusercontent.com/avelycure/Tests/main/img/harry_potter_onboarding.jpg",
       "onboardingText": "Hello you are gonna to play this"
@@ -10,7 +10,7 @@
    {
       "testName":"Which house at Hogwarts you would to study in",
       "fileName":"test2.txt",
-      "resName":"test2_res.txt",
+      "resName":"b",
       "questionsNumber":2,
       "testPreviewUrl": "https://raw.githubusercontent.com/avelycure/Tests/main/img/harry_potter_onboarding.jpg",
       "onboardingText": "Hello you are gonna to play this"
@@ -18,7 +18,7 @@
    {
       "testName":"What is your magical animal",
       "fileName":"test3.txt",
-      "resName":"test3_res.txt",
+      "resName":"c",
       "questionsNumber":2,
       "testPreviewUrl": "https://raw.githubusercontent.com/avelycure/Tests/main/img/harry_potter_onboarding.jpg",
       "onboardingText": "Hello you are gonna to play this"
